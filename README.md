@@ -87,4 +87,3 @@ The project demonstrates a streamlined process for loan prediction, enabling fin
 
 ---
 
-Let me know if you'd like adjustments, such as customization of headers, expanded sections, or code snippets!
